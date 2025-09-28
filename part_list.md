@@ -3,7 +3,8 @@
 
 | Part | Price | Amount |
 |----------------|----------------|------------|
-| Resistor 330Ω  |N/A             | 0 |
+| Resistor 330Ω  |N/A             | 1 |
 | SST39SF010A-70-4C-NHE | N/A | 1|
-| Total | N/A | 1 |
+| Capacitor 0.1µF| N/A | 1 |
+| Total | N/A | 3 |
 
