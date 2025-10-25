@@ -1487,6 +1487,28 @@
 		)
 		(uuid "ffcec530-7862-4553-8cf1-278c2badf1b8")
 	)
+	(global_label "CLK"
+		(shape input)
+		(at 36.83 187.96 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "038c8e29-3ea3-49c0-93f8-8a704459e5a0")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 30.2767 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "OP_Code_2"
 		(shape input)
 		(at 62.23 46.99 180)
@@ -1527,6 +1549,28 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "{slash}CLK"
+		(shape input)
+		(at 36.83 175.26 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "17ef2567-5ade-4387-8c34-683da33524ae")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 28.9462 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -2319,6 +2363,28 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "RESET_MICRO"
+		(shape input)
+		(at 36.83 163.83 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "ee743ebb-f6e5-419a-93e1-7874f65e19ae")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 21.2054 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 				(hide yes)
 			)
 		)
