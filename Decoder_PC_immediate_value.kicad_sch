@@ -2869,6 +2869,16 @@
 	)
 	(wire
 		(pts
+			(xy 44.45 186.69) (xy 50.8 186.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3bb55061-4974-43eb-bdc3-b29751d67fe8")
+	)
+	(wire
+		(pts
 			(xy 29.21 35.56) (xy 38.1 35.56)
 		)
 		(stroke
@@ -3009,16 +3019,6 @@
 	)
 	(wire
 		(pts
-			(xy 25.4 181.61) (xy 36.83 181.61)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4cda8ed5-8d21-4f2b-a6b4-3dfeabe382ee")
-	)
-	(wire
-		(pts
 			(xy 246.38 34.29) (xy 265.43 34.29)
 		)
 		(stroke
@@ -3139,16 +3139,6 @@
 	)
 	(wire
 		(pts
-			(xy 25.4 186.69) (xy 50.8 186.69)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "60079204-a193-4a47-a676-d4b5f85ff3fd")
-	)
-	(wire
-		(pts
 			(xy 58.42 40.64) (xy 67.31 40.64)
 		)
 		(stroke
@@ -3256,6 +3246,16 @@
 			(type default)
 		)
 		(uuid "7491038d-fa05-4bb7-b352-62f569e0caba")
+	)
+	(wire
+		(pts
+			(xy 25.4 186.69) (xy 36.83 186.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "75a9ca10-85ed-47ed-90f4-32c8924f9d3e")
 	)
 	(wire
 		(pts
@@ -3919,6 +3919,16 @@
 	)
 	(wire
 		(pts
+			(xy 25.4 181.61) (xy 50.8 181.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d6afd6ef-f046-4146-8075-e1e802dfc67a")
+	)
+	(wire
+		(pts
 			(xy 54.61 88.9) (xy 58.42 88.9)
 		)
 		(stroke
@@ -3936,16 +3946,6 @@
 			(type default)
 		)
 		(uuid "d7b20f4f-2c49-415c-ae40-789e2679a7ef")
-	)
-	(wire
-		(pts
-			(xy 44.45 181.61) (xy 50.8 181.61)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d93e591d-546f-4d15-8a62-6077e2ad9c7e")
 	)
 	(wire
 		(pts
@@ -8400,7 +8400,7 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 40.64 181.61 180)
+		(at 40.64 186.69 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8408,7 +8408,7 @@
 		(dnp no)
 		(uuid "eaa867a7-1d53-41da-bb17-26a669dea895")
 		(property "Reference" "D1"
-			(at 40.64 179.324 0)
+			(at 40.64 188.976 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8416,7 +8416,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at 41.402 183.134 0)
+			(at 39.878 185.166 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8424,7 +8424,7 @@
 			)
 		)
 		(property "Footprint" "Diode_THT:D_5W_P10.16mm_Horizontal"
-			(at 40.64 181.61 0)
+			(at 40.64 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8433,7 +8433,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 40.64 181.61 0)
+			(at 40.64 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8442,7 +8442,7 @@
 			)
 		)
 		(property "Description" "Diode"
-			(at 40.64 181.61 0)
+			(at 40.64 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8451,7 +8451,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 40.64 181.61 0)
+			(at 40.64 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8460,7 +8460,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 40.64 181.61 0)
+			(at 40.64 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
